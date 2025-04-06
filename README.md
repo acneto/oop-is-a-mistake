@@ -1,4 +1,4 @@
-# Rethinking Object-Oriented Programming: Is It a Big Mistake?
+# OOP is a mistake. Simplicity is key.
 
 In recent years, the software development community has seen a spirited debate around the merits—and pitfalls—of object-oriented programming (OOP). While OOP has powered countless applications and remains a cornerstone of many codebases, a growing number of developers question whether its inherent complexities outweigh its benefits.
 
